@@ -1,0 +1,62 @@
+[
+    {
+        "containerStyle": null,
+        "imageSet": [
+            {
+                "style": null,
+                "path": "./assets/galleries/christmas/1_hero.png",
+                "description": null
+            },
+            {
+                "style": null,
+                "path": "./assets/galleries/christmas/1_packaging.png",
+                "description": null
+            },
+            {
+                "style": null,
+                "path": "./assets/galleries/christmas/1_background.png",
+                "description": "Questo è un design unico e bellissimo. In vero lengo di bambu"
+            }
+        ]
+    },
+    {
+        "containerStyle": "grid h-full w-full grid-cols-3 grid-rows-3 gap-4",
+        "imageSet": [
+            {
+                "style": "col-span-2 row-span-1 bg-indigo-100 rounded-3xl justify-center items-center",
+                "path": "./assets/galleries/christmas/2_background.png",
+                "description": null
+            },
+            {
+                "style": "col-span-1 row-span-1 bg-indigo-100 rounded-3xl justify-center items-center",
+                "path": "./assets/galleries/christmas/2_packaging.png",
+                "description": null
+            },
+            {
+                "style": "col-span-3 row-span-2 bg-indigo-100 rounded-3xl justify-center items-center",
+                "path": "./assets/galleries/christmas/2_hero.png",
+                "description": "Questo è un design unico e bellissimo. In vero lengo di bambu"
+            }
+        ]
+    },
+    {
+        "containerStyle": null,
+        "imageSet": [
+            {
+                "style": null,
+                "path": "./assets/galleries/christmas/3_hero.png",
+                "description": null
+            },
+            {
+                "style": null,
+                "path": "./assets/galleries/christmas/3_packaging.png",
+                "description": null
+            },
+            {
+                "style": null,
+                "path": "./assets/galleries/christmas/3_background.png",
+                "description": "Questo è un design unico e bellissimo. In vero lengo di bambu"
+            }
+        ]
+    }
+]
