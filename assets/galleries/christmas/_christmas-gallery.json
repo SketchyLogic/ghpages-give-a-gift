@@ -1,81 +1,43 @@
 [
     {
-        "containerStyle": "grid-template-columns: repeat(3, minmax(0, 1fr));grid-template-rows: repeat(3, minmax(0, 1fr));",
+        "class": "defaultBento",
         "imageSet": [
             {
-                "style": "grid-column: span 2 / span 2; grid-row: span 1 / span 1",
-                "path": "./assets/galleries/christmas/1_package.png",
-                "description": ""
+                "path": "./assets/galleries/christmas/1_package.png"
             },
             {
-                "style": "grid-column: span 1 / span 1; grid-row: span 1 / span 1",
-                "path": "./assets/galleries/christmas/2_package.png",
-                "description": ""
+                "path": "./assets/galleries/christmas/2_package.png"
             },
             {
-                "style": "grid-column: span 3 / span 3; grid-row: span 2 / span 2",
-                "path": "./assets/galleries/christmas/2_hero.png",
-                "description": "Questo è un design unico e bellissimo. In vero lengo di bambu"
+                "path": "./assets/galleries/christmas/2_hero.png"
             }
         ]
     },
     {
-        "containerStyle": "grid-template-columns: repeat(3, minmax(0, 1fr));grid-template-rows: repeat(3, minmax(0, 1fr));",
+        "class": "defaultBento",
         "imageSet": [
             {
-                "style": "grid-column: span 2 / span 2; grid-row: span 1 / span 1",
-                "path": "./assets/galleries/christmas/1_package.png",
-                "description": ""
+                "path": "./assets/galleries/christmas/1_package.png"
             },
             {
-                "style": "grid-column: span 1 / span 1; grid-row: span 1 / span 1",
-                "path": "./assets/galleries/christmas/2_package.png",
-                "description": ""
+                "path": "./assets/galleries/christmas/2_package.png"
             },
             {
-                "style": "grid-column: span 3 / span 3; grid-row: span 2 / span 2",
-                "path": "./assets/galleries/christmas/2_hero.png",
-                "description": "Questo è un design unico e bellissimo. In vero lengo di bambu"
+                "path": "./assets/galleries/christmas/2_hero.png"
             }
         ]
     },
     {
-        "containerStyle": "grid-template-columns: repeat(3, minmax(0, 1fr));grid-template-rows: repeat(3, minmax(0, 1fr));",
+        "class": "defaultBento",
         "imageSet": [
             {
-                "style": "grid-column: span 2 / span 2; grid-row: span 1 / span 1",
-                "path": "./assets/galleries/christmas/1_package.png",
-                "description": ""
+                "path": "./assets/galleries/christmas/1_package.png"
             },
             {
-                "style": "grid-column: span 1 / span 1; grid-row: span 1 / span 1",
-                "path": "./assets/galleries/christmas/2_package.png",
-                "description": ""
+                "path": "./assets/galleries/christmas/2_package.png"
             },
             {
-                "style": "grid-column: span 3 / span 3; grid-row: span 2 / span 2",
-                "path": "./assets/galleries/christmas/2_hero.png",
-                "description": "Questo è un design unico e bellissimo. In vero lengo di bambu"
-            }
-        ]
-    },
-    {
-        "containerStyle": "grid-template-columns: repeat(3, minmax(0, 1fr));grid-template-rows: repeat(3, minmax(0, 1fr));",
-        "imageSet": [
-            {
-                "style": "grid-column: span 2 / span 2; grid-row: span 1 / span 1",
-                "path": "./assets/galleries/christmas/1_package.png",
-                "description": ""
-            },
-            {
-                "style": "grid-column: span 1 / span 1; grid-row: span 1 / span 1",
-                "path": "./assets/galleries/christmas/2_package.png",
-                "description": ""
-            },
-            {
-                "style": "grid-column: span 3 / span 3; grid-row: span 2 / span 2",
-                "path": "./assets/galleries/christmas/2_hero.png",
-                "description": "Questo è un design unico e bellissimo. In vero lengo di bambu"
+                "path": "./assets/galleries/christmas/2_hero.png"
             }
         ]
     }
