@@ -1,0 +1,44 @@
+[
+    {
+        "class": "defaultBento",
+        "imageSet": [
+            {
+                "path": "./assets/galleries/christmas/1_package.png"
+            },
+            {
+                "path": "./assets/galleries/christmas/2_package.png"
+            },
+            {
+                "path": "./assets/galleries/christmas/2_hero.png"
+            }
+        ]
+    },
+    {
+        "class": "defaultBento",
+        "imageSet": [
+            {
+                "path": "./assets/galleries/christmas/1_package.png"
+            },
+            {
+                "path": "./assets/galleries/christmas/2_package.png"
+            },
+            {
+                "path": "./assets/galleries/christmas/2_hero.png"
+            }
+        ]
+    },
+    {
+        "class": "defaultBento",
+        "imageSet": [
+            {
+                "path": "./assets/galleries/christmas/1_package.png"
+            },
+            {
+                "path": "./assets/galleries/christmas/2_package.png"
+            },
+            {
+                "path": "./assets/galleries/christmas/2_hero.png"
+            }
+        ]
+    }
+]
